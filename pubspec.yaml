@@ -1,0 +1,18 @@
+name: money_input_formatter
+description: Custum Monet Input Formatter
+version: 0.0.1
+homepage: https://github.com/cengizhanerturan/money_input_formatter.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  function_tree: ^0.8.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
